@@ -40,31 +40,55 @@ The system is intentionally implemented as a **single `.cpp` file** due to acade
 ## Data Structures Used
 
 Data Structure	Purpose
+
 AVL Tree	Fast customer lookup
+
 Max Heap	Priority-based order processing
+
 Hash Table	Inventory management
+
 Dynamic Hash Table	Auto-resizing inventory
+
 Linked List Queue	Kitchen order workflow
+
 Circular Queue	Billing queue
+
 Graph	Delivery routing
+
 LRU Cache	Hot data caching
 
-Algorithms Implemented
+## Algorithms Implemented
+
 Searching
+
 Binary Search
+
 Hash-based lookup
+
 KMP / Rabin-Karp (string matching)
+
 Sorting
+
 Merge Sort
+
 Quick Sort
+
 Heap Sort
+
 Graph Algorithms
+
 BFS & DFS
+
 Dijkstra’s Algorithm (standard & optimized)
+
 Prim’s Minimum Spanning Tree (standard & optimized)
+
 Greedy Algorithms
+
 Nearest Neighbor heuristic (TSP approximation)
+
 Resource allocation strategies
+
 These algorithms are applied to realistic scenarios such as order prioritization, inventory lookup, delivery route optimization, and analytics.
 
 ## Academic Note
